@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github.com/LeeKayn/LeeKayn/blob/main/programming.gif" />
 
-<h3 align="center">Interested in Data Science, Machine Learning and Deep Learning.</h3>
+<h3 align="center">Interested in Data Science, Computer Vision Machine Learning and Deep Learning.</h3>
 
-`I'm Data Science & AI student | IT Dept.` I'm Interested in Data Science, Data Analysis, AI and Machine Learning . 
+`I'm Data Science & AI student | IT Dept.` I'm Interested in Data Science, Data Analysis, Computer Vision and Machine Learning . 
 
 Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Computer Vision - Statistics - Probability - Machine Learning
 
