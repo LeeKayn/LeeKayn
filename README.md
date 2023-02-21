@@ -6,7 +6,7 @@
 
 `I'm Data Science & AI student | IT Dept.` I'm Interested in Data Science, Data Analysis, AI and Machine Learning . 
 
-Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning
+Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Computer Vision - Probability - Machine Learning
 
 - 🔭 I’m currently working on DaNang University of Technology (Student)
 - 🌱 I’m currently learning Data Science ,ML & DL
