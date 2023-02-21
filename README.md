@@ -41,4 +41,4 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
 <a href="mailto:MoatazElmesmary@std.mans.edu.eg"><img alt="Email" src="https://img.shields.io/badge/Email-levanan02sm@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
 
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/LeeKayn/LeeKayn/blob/main/LeeKayn.gif"/> 
+<img align='center'  height="70" alt="Thanks" width="300" src="https://github.com/LeeKayn/LeeKayn/blob/main/LeeKayn.gif"/> 
