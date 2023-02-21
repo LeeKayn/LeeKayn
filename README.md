@@ -9,7 +9,7 @@
 Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Computer Vision - Statistics - Probability - Machine Learning
 
 - 🔭 I’m currently working on DaNang University of Technology (Student)
-- 🌱 I’m currently learning Data Science ,ML & DL
+- 🌱 I’m currently learning Data Science ,Computer Vision ,ML & DL
   
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
