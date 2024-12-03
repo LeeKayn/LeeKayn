@@ -2,14 +2,14 @@
 
 <img align="right" src="https://github.com/LeeKayn/LeeKayn/blob/main/programming.gif" />
 
-<h3 align="center">Interested in Data Science, Computer Vision, Machine Learning and Deep Learning.</h3>
+<h3 align="center">Interested in Data Science, AI, Machine Learning and Deep Learning.</h3>
 
-`I'm Data Science & AI student | IT Dept.` I'm Interested in Data Science, Data Analysis, Computer Vision and Machine Learning . 
+`I'm Data Science & AI student | IT Dept.` I'm Interested in Data Science, Data Analysis and AI . 
 
-Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Computer Vision - Statistics - Probability - Machine Learning
+Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Computer Vision - Statistics - Probability - Machine Learning, LLM,NLP
 
 - 🔭 I’m currently working on DaNang University of Technology (Student)
-- 🌱 I’m currently learning Data Science ,Computer Vision ,ML & DL
+- 🌱 I’m currently learning Data Science ,AI ,ML & DL
   
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
