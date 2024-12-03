@@ -15,7 +15,8 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
 
 - 💻 &nbsp;
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![AI](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![AI](https://img.shields.io/badge/-AI-333333?style=flat&logo=ai&logoColor=white)  
+  ![LLM](https://img.shields.io/badge/-LLM-333333?style=flat&logo=llm&logoColor=white)  
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
   ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
   ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)
