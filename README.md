@@ -30,19 +30,24 @@ I'm passionate about applying artificial intelligence to solve real-world proble
     -   `PyCharm`
 - **Other :**
   -  `OpenCV`
-  - `MySQL`
+  -  `cycle database`
+  - `Non-cycle database`
 
 ### Frameworks & Libraries
 
--  **AI/ML:** (You can add specific libraries like TensorFlow, PyTorch, Scikit-learn, etc. if you want)
-
+-  **Hugging Face**
+-  **LangChain**
+-  **FastAPI**
+-  **FAISS**
+-  **OpenAI**
+-  **HayStack**
+  
 ## 👨‍💻 Let's Connect
 
 Feel free to connect with me through the following channels:
 
 -   **GitHub:** [https://github.com/LeeKayn](https://github.com/LeeKayn)
 -   **LinkedIn:** [https://www.linkedin.com/in/lê-văn-an-45368a160/](https://www.linkedin.com/in/lê-văn-an-45368a160/)
--   **Facebook:** [https://www.facebook.com/lol.Shieda.Kayn](https://www.facebook.com/lol.Shieda.Kayn)
 -   **Email:** [levanan02sm@gmail.com](mailto:levanan02sm@gmail.com)
 
 ---
