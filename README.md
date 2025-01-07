@@ -2,7 +2,7 @@
 
 <img align="right" width="35%" src="https://github.com/LeeKayn/LeeKayn/blob/main/programming.gif" />
 
-I'm an AI Specialist with experience in **LLM (Large Language Models), Computer Vision, Speech Recognition, and NLP/NLU (Natural Language Processing/Understanding)**. Currently, I'm focused on developing cutting-edge AI solutions, particularly in **Function Calling, Large Action Models, RAG (Retrieval-Augmented Generation), and Agent AI**.
+I'm an AI Engineer with experience in **LLM (Large Language Models), Computer Vision, Speech Recognition, and NLP/NLU (Natural Language Processing/Understanding)**. Currently, I'm focused on developing cutting-edge AI solutions, particularly in **Function Calling, Large Action Models, RAG (Retrieval-Augmented Generation), and Agent AI**.
 
 I'm passionate about applying artificial intelligence to solve real-world problems and continuously learning and exploring new technologies.
 
