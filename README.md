@@ -1,44 +1,48 @@
-<h1 align='center'> Hi !!! I'm Le Van An 👩‍💻 </h1>
+<h1 align='center'> 👋 Hi, I'm Le Van An </h1>
 
-<img align="right" src="https://github.com/LeeKayn/LeeKayn/blob/main/programming.gif" />
+<img align="right" width="35%" src="https://github.com/LeeKayn/LeeKayn/blob/main/programming.gif" />
 
-<h3 align="center">Interested in Data Science, AI, Machine Learning and Deep Learning.</h3>
+I'm an AI Specialist with experience in **LLM (Large Language Models), Computer Vision, Speech Recognition, and NLP/NLU (Natural Language Processing/Understanding)**. Currently, I'm focused on developing cutting-edge AI solutions, particularly in **Function Calling, Large Action Models, RAG (Retrieval-Augmented Generation), and Agent AI**.
 
-`I'm Data Science & AI student | IT Dept.` I'm Interested in Data Science, Data Analysis and AI . 
+I'm passionate about applying artificial intelligence to solve real-world problems and continuously learning and exploring new technologies.
 
-Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Computer Vision - Statistics - Probability - Machine Learning, LLM,NLP
+## 🛠️ Skills
 
-- 🔭 I’m currently working on DaNang University of Technology (Student)
-- 🌱 I’m currently learning Data Science ,AI ,ML & DL
-  
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### Languages & Technologies
 
-- 💻 &nbsp;
-  ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![AI](https://img.shields.io/badge/-AI-333333?style=flat&logo=ai&logoColor=white)  
-  ![LLM](https://img.shields.io/badge/-LLM-333333?style=flat&logo=llm&logoColor=white)  
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-  ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
-  ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)
+-   **Programming:** Python
+-   **AI/ML:**
+    -   `Large Language Models (LLMs)`
+    -   `Computer Vision (CV)`
+    -   `Speech Recognition`
+    -   `Natural Language Processing/Understanding (NLP/NLU)`
+    -   `Function Calling`
+    -   `Large Action Model`
+    -   `Retrieval-Augmented Generation (RAG)`
+    -   `Agent AI`
+    -   `Machine Learning (ML)`
+    -   `Deep Learning (DL)`
+-   **Tools:**
+    -   `Jupyter`
+    -   `Git`
+    -   `GitHub`
+    -   `Visual Studio Code`
+    -   `PyCharm`
+- **Other :**
+  -  `OpenCV`
+  - `MySQL`
 
-- 🌐 &nbsp;
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
+### Frameworks & Libraries
 
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC)
+-  **AI/ML:** (You can add specific libraries like TensorFlow, PyTorch, Scikit-learn, etc. if you want)
 
-<h3 align="left">🤝🏻Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
+## 👨‍💻 Let's Connect
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/lol.Shieda.Kayn)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeeKayn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lê-văn-an-45368a160/)   
+Feel free to connect with me through the following channels:
 
-<a href="mailto:MoatazElmesmary@std.mans.edu.eg"><img alt="Email" src="https://img.shields.io/badge/Email-levanan02sm@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
+-   **GitHub:** [https://github.com/LeeKayn](https://github.com/LeeKayn)
+-   **LinkedIn:** [https://www.linkedin.com/in/lê-văn-an-45368a160/](https://www.linkedin.com/in/lê-văn-an-45368a160/)
+-   **Facebook:** [https://www.facebook.com/lol.Shieda.Kayn](https://www.facebook.com/lol.Shieda.Kayn)
+-   **Email:** [levanan02sm@gmail.com](mailto:levanan02sm@gmail.com)
 
-
-<img align='center'  height="70" alt="Thanks" width="300" src="https://github.com/LeeKayn/LeeKayn/blob/main/LeeKayn.gif"/> 
+---
