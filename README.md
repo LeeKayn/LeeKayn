@@ -19,7 +19,7 @@ I'm passionate about applying artificial intelligence to solve real-world proble
     -   `Function Calling`
     -   `Large Action Model`
     -   `Retrieval-Augmented Generation (RAG)`
-    -   `Agent AI`
+    -   `AI Agent`
     -   `Machine Learning (ML)`
     -   `Deep Learning (DL)`
 -   **Tools:**
