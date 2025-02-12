@@ -47,7 +47,7 @@ I'm passionate about applying artificial intelligence to solve real-world proble
 Feel free to connect with me through the following channels:
 
 -   **GitHub:** [https://github.com/LeeKayn](https://github.com/LeeKayn)
--   **LinkedIn:** [https://www.linkedin.com/in/lê-văn-an-45368a160/](https://www.linkedin.com/in/lê-văn-an-45368a160/)
+-   **LinkedIn:** [https://www.linkedin.com/in/lê-văn-an-45368a160/](https://www.linkedin.com/in/van-an-le-45368a160/)
 -   **Email:** [levanan02sm@gmail.com](mailto:levanan02sm@gmail.com)
 
 ---
